@@ -27,7 +27,7 @@ When you first join the team, you will have a meeting with your supervisor to ge
 * Read the safetey and security guidelines provided by your supervisor
 * Set up Teams and send your supervisor a message there to confirm the communication chanel 
 * Study the [Software Carpentry](https://software-carpentry.org/lessons/) lessons on Version Control with Git and Python and set up Git and Python on your notebook. They will be crucial for your project. 
-* Set up your computer as outlined in the [Computer setup](#Computer_setup) section
+* Set up your computer as outlined in the [Computer setup](#Computer-setup) section
 * Check out the GitLab repository your supervisor invited you to
 * Go and start making something brilliant!
 
@@ -37,7 +37,7 @@ When you first join the team, you will have a meeting with your supervisor to ge
 * Keep track of your time and take your vacation days. Working extended periods of overtime without interruption can lead to burnout, exhaustion, and overall impedes the type of atmosphere we are trying to develop
 * All team members should endeavor to participate in team meetings and share updates about their work (be ready to show preliminary results in team meetings)
 * Share your work:
-   * Strive to write [good code](#Coding_standards) that can be understood and reused by others
+   * Strive to write [good code](#Coding-standards) that can be understood and reused by others
    * Compile a visual summary of your work and results at the end of your internship that help others understand what you have been working on 
 
 ## Communication
