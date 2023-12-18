@@ -36,7 +36,9 @@ When you first join the team, you will have a meeting with your supervisor to ge
 * We intend to foster a collegial atmosphere, with opportunities for spontaneous discussions and creative opportunities
 * Keep track of your time and take your vacation days. Working extended periods of overtime without interruption can lead to burnout, exhaustion, and overall impedes the type of atmosphere we are trying to develop
 * All team members should endeavor to participate in team meetings and share updates about their work (be ready to show preliminary results in team meetings)
-* Share your work: strive to write [good code](#Coding_standards) that can be reused by others and compile a visual summary of your work and results at the end of your internship 
+* Share your work:
+   * Strive to write [good code](#Coding_standards) that can be understood and reused by others
+   * Compile a visual summary of your work and results at the end of your internship that help others understand what you have been working on 
 
 ## Communication
 
@@ -50,6 +52,7 @@ When you first join the team, you will have a meeting with your supervisor to ge
 * Set up Teams chat and Outlook for email
 * Download and install [Miniforge](https://github.com/conda-forge/miniforge)
 * Download and install [Windows Terminal](https://apps.microsoft.com/detail/9N0DX20HK701?hl=en-US&gl=US)
+   * Add a conda/mamba profile so you can use mamba from Terminal 
 * Download and install [VSCode](https://code.visualstudio.com)
 * Download and install [QGIS](https://qgis.org/de/site/forusers/download.html)
 * Set up the Python environment specified in your GitLab repo (if available)
