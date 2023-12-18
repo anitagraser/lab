@@ -13,7 +13,7 @@ When you first join the team, you will have a meeting with your supervisor to ge
 ### Supervisors’s to-do list
 
 * Ensure notebook and accounts are ready
-* Add to the lab GitLab organization
+* Add to the relevant GitLab organization/repo
 * Send welcome message in Teams chat
 
 ### First meeting with supervisor
@@ -24,7 +24,7 @@ When you first join the team, you will have a meeting with your supervisor to ge
 
 ### Getting started
 
-* Read the safetey and security guidelines provided by your supervisor
+* Read the safety and security guidelines provided by your supervisor
 * Set up Teams and send your supervisor a message there to confirm the communication chanel
 * Set up your computer as outlined in the [Computer setup](#Computer-setup) section
 * Study the [Software Carpentry](https://software-carpentry.org/lessons/) lessons on Version Control with Git and Python
