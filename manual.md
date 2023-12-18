@@ -28,7 +28,6 @@ When you first join the team, you will have a meeting with your supervisor to ge
 * Set up Teams and send your supervisor a message there to confirm the communication chanel 
 * Study the [Software Carpentry](https://software-carpentry.org/lessons/) lessons on Version Control with Git and Python and set up Git and Python on your notebook. They will be crucial for your project. 
 * Set up your computer as outlined in the [Computer setup](#Computer-setup) section
-* Check out the GitLab repository your supervisor invited you to
 * Go and start making something brilliant!
 
 ## Expectations
@@ -50,11 +49,14 @@ When you first join the team, you will have a meeting with your supervisor to ge
 ## Computer setup
 
 * Set up Teams chat and Outlook for email
-* Download and install [Miniforge](https://github.com/conda-forge/miniforge)
-* Download and install [Windows Terminal](https://apps.microsoft.com/detail/9N0DX20HK701?hl=en-US&gl=US)
-   * Add a conda/mamba profile so you can use mamba from Terminal 
-* Download and install [VSCode](https://code.visualstudio.com)
-* Download and install [QGIS](https://qgis.org/de/site/forusers/download.html)
+* Download and install [Git](https://gitforwindows.org) version control system
+* Download and install [Miniforge](https://github.com/conda-forge/miniforge) as a Python package manager with conda/mamba 
+* Download and install [Windows Terminal](https://apps.microsoft.com/detail/9N0DX20HK701?hl=en-US&gl=US) for a better command line experience
+   * Configure a conda profile so you can use conda/mamba from Terminal 
+* Download and install [VSCode](https://code.visualstudio.com) as a development environment that integrates with Git, conda, Jupyter, et al. 
+   * Install the Python and Jupyter extensions
+* Download and install [QGIS](https://qgis.org/de/site/forusers/download.html) as a user-friendly GUI for spatial data visualization and analysis
+* Check out the GitLab repository your supervisor invited you to
 * Set up the Python environment specified in your GitLab repo (if available)
 
 ## Coding standards
