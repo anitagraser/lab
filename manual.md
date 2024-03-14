@@ -86,6 +86,9 @@ A curated list of software tools, services, and learning resources that could be
 
 ### Geospatial
 
+The [preface of "Geocomputation with Python"](https://py.geocompx.org/preface) provides an overview of the focus of different textbooks with geospatial focus, including: 
+
+* [Introduction to Python for Geographic Data Analysis](https://pythongis.org)
 * [Geocomputation with Python](https://py.geocompx.org)
 * [Geographic Data Science with Python](https://geographicdata.science/book/intro.html)
 
