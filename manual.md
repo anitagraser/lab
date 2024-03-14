@@ -74,6 +74,8 @@ When you first join the team, you will have a meeting with your supervisor to ge
 
 A curated list of software tools, services, and learning resources that could be handy for the work we do in the lab. Feel free to add new things that you've found useful!
 
+### General
+
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu) is an MIT class on how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more.
 * [Modern Plain Text Computing](https://mptc.io) similarly teaches essential concepts, tools and various tricks for data scientists.
 * [Software Carpentry](https://software-carpentry.org/lessons/) has community driven lessons on how to use the Unix shell, Version Control with Git, and Python.
@@ -81,6 +83,11 @@ A curated list of software tools, services, and learning resources that could be
 * [mamba](https://mamba.readthedocs.io/): Python package manager
 * [Zotero](https://www.zotero.org/): collect and organize scientific articles
 * [How to Write a Git Commit Message](https://cbea.ms/git-commit/): a comprehensive guide to learn how to write meaningful git commie messages. Read it sooner than later!
+
+### Geospatial
+
+* [Geocomputation with Python](https://py.geocompx.org)
+* [Geographic Data Science with Python](https://geographicdata.science/book/intro.html)
 
 ## License
 
