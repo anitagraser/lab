@@ -13,7 +13,7 @@ When you first join the team, you will have a meeting with your supervisor to ge
 ### Supervisors’s to-do list
 
 * Ensure notebook and accounts are ready
-* Add to the relevant GitLab organization/repo
+* Add to the relevant GitLab/GitHub organization/repo
 * Send welcome message in Teams chat
 
 ### First meeting with supervisor
@@ -42,7 +42,7 @@ When you first join the team, you will have a meeting with your supervisor to ge
 ## Communication
 
 * **Chat:** We use Teams as the primary mode of communication for quick messages, announcements, reminders, and organizing meetings. Messages can be ephemeral so you cannot count of being able to read messages forever. Use email if you need a record of the conversation.
-* **GitLab:** Each project is assigned a repository on our GitLab. Reviews of code, text, etc., will be done through the repository. We'll also use to set goals and tasks.
+* **GitLab/GitHub:** Each project is assigned a repository on our GitLab/GitHub. Reviews of code, text, etc., will be done through the repository. We'll also use to set goals and tasks.
 * **Individual meetings:** We aim to have short weekly or bi-weekly individual meetings to discuss project status, personal and professional goals, work through problems, and to build a good supervisor-student relationship.
 * Group members are also encouraged to have meetings and messages with each other. **Don’t wait until problems build up to seek guidance.**
 
@@ -56,8 +56,9 @@ When you first join the team, you will have a meeting with your supervisor to ge
 * Download and install [VSCode](https://code.visualstudio.com) as a development environment that integrates with Git, conda, Jupyter, et al. 
    * Install the Python and Jupyter extensions
 * Download and install [QGIS](https://qgis.org/de/site/forusers/download.html) as a user-friendly GUI for spatial data visualization and analysis
-* Check out the GitLab repository your supervisor invited you to
-* Set up the Python environment specified in your GitLab repo (if available)
+* Check out the GitLab/GitHub repository your supervisor invited you to
+* For Github: download and install [GitHub Desktop](https://desktop.github.com) 
+* Set up the Python environment specified in your GitLab/GitHub repo (if available)
 
 ## Coding standards
 
