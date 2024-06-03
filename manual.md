@@ -49,10 +49,11 @@ When you first join the team, you will have a meeting with your supervisor to ge
 ## Computer setup
 
 * Set up Teams chat and Outlook for email
+* Configure Windows File Explorer to display file endings
 * Download and install [Git](https://gitforwindows.org) version control system
-* Download and install [Miniforge](https://github.com/conda-forge/miniforge) as a Python package manager with conda/mamba 
+* Download and install [Miniforge](https://github.com/conda-forge/miniforge) as a Python package manager with conda/mamba
+   * Add the path to conda to your PATH in the Windows environmental variables so that you can call conda from the command line 
 * Download and install [Windows Terminal](https://apps.microsoft.com/detail/9N0DX20HK701?hl=en-US&gl=US) for a better command line experience
-   * Configure a conda profile so you can use conda/mamba from Terminal 
 * Download and install [VSCode](https://code.visualstudio.com) as a development environment that integrates with Git, conda, Jupyter, et al. 
    * Install the Python and Jupyter extensions
 * Download and install [QGIS](https://qgis.org/de/site/forusers/download.html) as a user-friendly GUI for spatial data visualization and analysis
@@ -61,6 +62,8 @@ When you first join the team, you will have a meeting with your supervisor to ge
 * Set up the Python environment specified in your GitLab/GitHub repo (if available)
 
 ## Coding standards
+
+<img align="right" width="400px" src="https://github.com/anitagraser/lab/assets/590385/e2f9c644-6270-4afa-8698-a4f94b1e8e01">
 
 * Code should avoid being "too clever", for example clever abuses of languages and algorithms that cut corners in the interest of marginal time savings.
 * Clarity and maintainability take precedence over performance to ensure that the code can remain useful beyond the original scope of the project.
