@@ -53,7 +53,7 @@ When you first join the team, you will have a meeting with your supervisor to ge
 * Download and install [Git](https://gitforwindows.org) version control system
 * Download and install [Miniforge](https://github.com/conda-forge/miniforge) as a Python package manager with conda/mamba
    * Add the path to conda to your PATH in the Windows environmental variables so that you can call conda from the command line 
-* Download and install [Windows Terminal](https://apps.microsoft.com/detail/9N0DX20HK701?hl=en-US&gl=US) for a better command line experience
+* Install [Windows Terminal](https://apps.microsoft.com/detail/9N0DX20HK701?hl=en-US&gl=US) (available in the Microsoft Store) for a better command line experience
 * Download and install [VSCode](https://code.visualstudio.com) as a development environment that integrates with Git, conda, Jupyter, et al. 
    * Install the Python and Jupyter extensions
 * Download and install [QGIS](https://qgis.org/de/site/forusers/download.html) as a user-friendly GUI for spatial data visualization and analysis
