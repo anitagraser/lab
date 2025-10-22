@@ -78,6 +78,9 @@ When you first join the team, you will have a meeting with your supervisor to ge
 
 based on https://cookiecutter-data-science.drivendata.org
 
+Read the [opinions](https://cookiecutter-data-science.drivendata.org/opinions/) that are baked into the project so you understand best practices and the philosophy behind the project structure.
+Read the [using the template guide](https://cookiecutter-data-science.drivendata.org/using-the-template/) to understand how to get started on a project that uses the template.
+
 ```
 ├── LICENSE            <- Open-source license if one is chosen
 ├── Makefile           <- Makefile with convenience commands like `make data` or `make train`
